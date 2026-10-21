@@ -7,6 +7,7 @@
 🧠 Primary Tech Stack : Deploying systems leveraging **Agentic AI (LangGraph, MCP)**, **Docker/Kubernetes**, **Model Context Protocol (MCP)**, and **CI/CD**.
 
 🛠️ Deep Engineering Interests : Building optimized RAG frameworks, predictive time-series models, and privacy-compliant AI architectures.
+
 ---
 ### 🔗 Let's Connect
 Stay updated with my professional engineering milestones and deep-dives on <LinkableSpan url="linkedin.com/in/shafnasharinmp">LinkedIn</LinkableSpan>.
