@@ -4,7 +4,7 @@
 
 🚀 Production Focus : Mastering enterprise LLMOps pipelines, distributed cloud observability, and scalable machine learning workflows.
 
-🧠 Primary Tech Stack : Deploying systems leveraging **Agentic AI (LangGraph, MCP)**, **Docker/Kubernetes**, **Model Context Protocol (MCP)**, and **CI/CD**.
+🧠 Primary Tech Stack : Deploying systems leveraging **Agentic AI, Langchain, LangGraph**, **Docker/Kubernetes**, **Model Context Protocol (MCP)**, and **CI/CD**.
 
 🛠️ Deep Engineering Interests : Building optimized RAG frameworks, predictive time-series models, and privacy-compliant AI architectures.
 
